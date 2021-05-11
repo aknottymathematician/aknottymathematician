@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aknottymathematician
+- 👋 Hi, I’m Jasraj @aknottymathematician
 - 👀 I’m interested in Math, Coding, exploring depths of AI
 - 🌱 I’m currently learning a few elements of Computer Vision
 - 💞️ I’m looking to collaborate on Python Coding
