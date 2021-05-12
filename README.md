@@ -6,7 +6,7 @@
 
 
 
-[![Header](https://raw.githubusercontent.com/AKnottyMathematician/<OWNER>/<OWNER>/KM_masthead-2_16-August-2020.jpg "Header")](https://aknottymathematician.github.io/)
+[![Header](https://raw.githubusercontent.com/aknottymathematician/aknottymathematician/main/KM_masthead-2_16-August-2020.jpg "Header")](https://aknottymathematician.github.io/)
 
 
 <!---
