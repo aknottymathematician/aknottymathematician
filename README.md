@@ -1,13 +1,29 @@
-- 👋 Hi, I’m Jasraj @aknottymathematician
+<!--- - 👋 Hi, I’m Jasraj @aknottymathematician
 - 👀 I’m interested in Math, Coding, exploring depths of AI
 - 🌱 I’m currently learning a few elements of Computer Vision
 - 💞️ I’m looking to collaborate on Python Coding
-- 📫 How to reach me aknottymathematician@gmail.com
+- 📫 How to reach me aknottymathematician@gmail.com -->
 
 
 
 [![Header](https://raw.githubusercontent.com/aknottymathematician/aknottymathematician/main/KM_masthead-2_16-August-2020.jpg "Header")](https://aknottymathematician.github.io/)
 
+I am an AI Engineer at [Miko](https://miko.ai/in), working in Natural Language Processing. I have completed my MSc in Mathematics from VNIT, Nagpur. I am a learner just like you and the blog posts I share are essentially the notes I take while studying, so if you find any mistakes in theoretical sections or errors in the codes please contact me, I'll make sure that I correct those as required.
+
+You can find me here - 
+
+<i class="fa fa-envelope" aria-hidden="true"></i> [<span style="color:black ; text-decoration:none" >Email</span>](mailto:aknottymathematician@gmail.com)
+
+<i class="fab fa-fw fa-twitter-square" style="color:#55acee"></i> [<span style="color:black" display= "inline-block">Twitter</span>](https://twitter.com/aknottymathema1)
+
+<i class="fab fa-fw fa-linkedin" style="color:#007bb6"></i> [<span style="color:black" margin-bottom= "0em">Linkedin</span>](https://www.linkedin.com/in/jasraj-date/)
+
+
+Furthermore, the codes used in the the blog can be found on 
+
+<i class="fab fa-fw fa-github" style="color:#171516"></i> [<span style="color:black" margin-bottom= "0em">AKM</span>](https://github.com/aknottymathematician) Github page.
+
+<i class="fab fa-fw fa-twitter-square" style="color:#55acee"></i> [<span style="color:blue">Twitter</span>](https://twitter.com/aknottymathguy)
 
 [![A Knotty Mathematician's GitHub stats](https://github-readme-stats.vercel.app/api?username=aknottymathematician)](https://github.com/aknottymathematician/github-readme-stats)
 
