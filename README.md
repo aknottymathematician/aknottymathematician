@@ -8,7 +8,7 @@
 
 [![Header](https://raw.githubusercontent.com/aknottymathematician/aknottymathematician/main/KM_masthead-2_16-August-2020.jpg "Header")](https://aknottymathematician.github.io/)
 
-I am an AI Engineer at [Miko](https://miko.ai/in), working in Natural Language Processing. I have completed my MSc in Mathematics from VNIT, Nagpur. I am a learner just like you and the blog posts I share are essentially the notes I take while studying, so if you find any mistakes in theoretical sections or errors in the codes please contact me, I'll make sure that I correct those as required.
+## I am an AI Engineer at [Miko](https://miko.ai/in), working in Natural Language Processing. I have completed my MSc in Mathematics from VNIT, Nagpur. I am a learner just like you and the blog posts I share are essentially the notes I take while studying, so if you find any mistakes in theoretical sections or errors in the codes please contact me, I'll make sure that I correct those as required.
 
 You can find me here - 
 
@@ -20,7 +20,6 @@ You can find me here -
 
 
 [![A Knotty Mathematician's GitHub stats](https://github-readme-stats.vercel.app/api?username=aknottymathematician)](https://github.com/aknottymathematician/github-readme-stats)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aknottymathematician&layout=compact)](https://github.com/aknottymathematician/github-readme-stats)
 
 
