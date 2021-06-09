@@ -16,8 +16,8 @@ You can find me here -
 <i class="fab fa-fw fa-linkedin" style="color:#007bb6"></i> [<span style="color:black" margin-bottom= "0em">Linkedin</span>](https://www.linkedin.com/in/jasraj-date/)
 
 
-[![A Knotty Mathematician's GitHub stats](https://github-readme-stats.vercel.app/api?username=aknottymathematician)](https://github.com/aknottymathematician/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aknottymathematician&layout=compact)](https://github.com/aknottymathematician/github-readme-stats)
+<!-- [![A Knotty Mathematician's GitHub stats](https://github-readme-stats.vercel.app/api?username=aknottymathematician)](https://github.com/aknottymathematician/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aknottymathematician&layout=compact)](https://github.com/aknottymathematician/github-readme-stats) -->
 
 
 <!--- ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
