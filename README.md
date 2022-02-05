@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Python Coding
 - 📫 How to reach me aknottymathematician@gmail.com -->
 
-
+![](https://komarev.com/ghpvc/?username=aknottymathematician&color=red&label=PROFILE+VIEWS)
 
 [![Header](https://raw.githubusercontent.com/aknottymathematician/aknottymathematician/main/KM_masthead-2_16-August-2020.jpg "Header")](https://aknottymathematician.github.io/)
 
